@@ -70,7 +70,7 @@ export default function Navbar() {
         </Search>
         {/* Created Icons for mail, notifications and avatar */}
         <Icons>
-          <Badge badgeContent={4} color="error">
+          <Badge badgeContent={3} color="error">
             {" "}
             {/* Using badgeContent provided count of notification */}
             <MailIcon />
